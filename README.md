@@ -4,6 +4,7 @@ Welcome! This repo serves as a central hub for information on our values and how
 
 - [Working Agreement](working_agreement.md)
 - [Onboard Guide](onboarding.md) for new members
+- [Candidature Milestones](milestones.md) for HDR candidates
 - [Data Management Guide](data-management.md) for open science
 - [Offboarding Guide](offboarding.md)
 
