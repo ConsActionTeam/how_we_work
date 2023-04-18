@@ -14,11 +14,11 @@ To Do List
 1.  Join the Seascape models mailing list and Teams (ask Caitie).
 2.  Join the Australian Rivers Institute mailing lists and complete [onboarding](https://griffitheduau.sharepoint.com/sites/ARI/SitePages/Onboarding.aspx). Contact [Ana](mailto:a.veamatahau@griffith.edu.au) with any questions.
 3.  Make a [GitHub](https://github.com/) account and join the [ConsActionTeam](https://github.com/ConsActionTeam) organization (ask Caitie)
-4.  Send a short biography, your contact information, photo, and web address (if applicable) to Caitie to add to our lab webpage [here](/cdkuempel.github.io/website/people.html)). 
-5.  Read the [Lab Working Agreement](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.md).
-6.  Read the [Lab Data Management Policy](https://github.com/pinskylab/policies/blob/master/data-management.md).
-7.  Complete [Expectations of Research Supervision questionnaire](https://www.ithinkwell.com.au/index.php?route=product/product/freedownload&download_id=37) and bring it to your first meeting with Caitie (she will complete one as well and discuss together)
-8.  Write an [Independent Development Plan](https://myidp.sciencecareers.org) and share it with Caitie.
+          - Download R/RStudio and set up git with RStudio
+5.  Send a short biography, your contact information, photo, and web address (if applicable) to Caitie to add to our lab webpage [here](/cdkuempel.github.io/website/people.html)). 
+6.  Read the [Lab Working Agreement](https://github.com/pinskylab/how_we_work/blob/master/working_agreement.md).
+7.  Read the [Lab Data Management Policy](https://github.com/pinskylab/policies/blob/master/data-management.md).
+8.  Complete [Expectations of Research Supervision questionnaire](https://www.ithinkwell.com.au/index.php?route=product/product/freedownload&download_id=37) and bring it to your first meeting with Caitie (she will complete one as well and discuss together)
 9.  Download and begin to maintain a reference manager. We recommend Zotero, as the free software interfaces well with both Microsoft Word and Google Docs. Download Zotero and browser plugin [here](https://www.zotero.org/download/).  
 
 
